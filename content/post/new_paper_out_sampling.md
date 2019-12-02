@@ -4,7 +4,7 @@ title = "New paper out"
 
 date = 2018-09-11T00:00:00
 lastmod = 2018-09-11T00:00:00
-draft = true
+draft = false
 math = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,7 +15,7 @@ summary = "[**Nonconvex Variance Reduced Optimization with Arbitrary Sampling**]
 
 +++
 
-Our paper is now available on the arxiv. A poster based on the results of this paper won [the Best Poster]({{% ref "post/DS3.md" %}}) at Data Science Summer School in Paris, 2018.
+Our paper is now available on the arxiv. A poster based on the results of this paper won [the Best Poster]({{% ref "post/dss_2018/index.md" %}}) at Data Science Summer School in Paris, 2018.
 
 Abstract:
 
