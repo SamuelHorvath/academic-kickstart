@@ -30,7 +30,7 @@ url_pdf: https://arxiv.org/pdf/1901.08689.pdf
 # url_dataset: '#'
 # url_poster: http://2018.ds3-datascience-polytechnique.fr/wp-content/uploads/2018/06/DS3-342.pdf
 # url_project: ''
-# url_slides: ''
+url_slides: 'files/slides_alt20.pdf'
 # url_source: '#'
 # url_video: '#'
 
