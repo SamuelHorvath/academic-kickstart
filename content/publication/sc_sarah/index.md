@@ -26,7 +26,7 @@ abstract: Adaptivity is an important yet under-studied property in modern optimi
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/pdf/2002.tbd.pdf
+url_pdf: https://arxiv.org/pdf/2002.05359.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: http://2018.ds3-datascience-polytechnique.fr/wp-content/uploads/2018/06/DS3-342.pdf

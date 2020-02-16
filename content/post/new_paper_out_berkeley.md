@@ -11,7 +11,7 @@ math = true
 authors = []
 
 tags = []
-summary = "[**Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization**](https://arxiv.org/pdf/2002.tbd .pdf)"
+summary = "[**Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization**](https://arxiv.org/pdf/2002.05359.pdf)"
 
 +++
 
