@@ -25,7 +25,7 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: http://proceedings.mlr.press/v97/horvath19a/horvath19a.pdf
-url_code: 'https://github.com/SamuelHorvath/vr_arb_sampling'
+# url_code: 'https://github.com/SamuelHorvath/vr_arb_sampling'
 # url_dataset: '#'
 url_poster: http://2018.ds3-datascience-polytechnique.fr/wp-content/uploads/2018/06/DS3-342.pdf
 # url_project: ''

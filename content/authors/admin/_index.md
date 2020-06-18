@@ -15,7 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: KAUST
-  url: "kaust.edu.sa"
+  url: "https://kaust.edu.sa/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD Student in Machine Learning and Optimization
