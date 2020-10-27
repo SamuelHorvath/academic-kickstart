@@ -25,7 +25,7 @@ abstract: It is well understood that client-master communication can be a primar
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/pdf/2010.0000.pdf
+url_pdf: https://arxiv.org/pdf/2010.13723.pdf
 url_code: https://github.com/SamuelHorvath/FL-optimal-client-sampling
 # url_dataset: '#'
 # url_poster: http://2018.ds3-datascience-polytechnique.fr/wp-content/uploads/2018/06/DS3-342.pdf

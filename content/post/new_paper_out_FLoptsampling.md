@@ -2,8 +2,8 @@
 title = "New paper out"
 
 
-date = 2020-10-23T00:00:00
-lastmod = 2020-10-23T00:00:00
+date = 2020-10-26T00:00:00
+lastmod = 2020-10-26T00:00:00
 draft = false
 math = true
 
@@ -11,7 +11,7 @@ math = true
 authors = []
 
 tags = []
-summary = "[**Optimal Client Sampling for Federated Learning**](https://arxiv.org/pdf/2010.0000.pdf)"
+summary = "[**Optimal Client Sampling for Federated Learning**](https://arxiv.org/abs/2010.13723)"
 
 +++
 
