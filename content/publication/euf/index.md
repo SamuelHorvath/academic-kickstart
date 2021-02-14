@@ -24,7 +24,7 @@ abstract: Modern large-scale machine learning applications require stochastic op
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/pdf/2006.11077.pdf
+url_pdf: https://openreview.net/pdf?id=vYVI1CHPaQg
 url_code: https://github.com/SamuelHorvath/Compressed_SGD_PyTorch
 # url_dataset: '#'
 # url_poster: http://2018.ds3-datascience-polytechnique.fr/wp-content/uploads/2018/06/DS3-342.pdf

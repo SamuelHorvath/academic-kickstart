@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "samuel [dot] horvath [at] kaust [dot] edu [dot] sa"
+email = "samuel.horvath [at] kaust.edu.sa"
 phone = ""
 
 # Address

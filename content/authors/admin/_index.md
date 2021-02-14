@@ -67,6 +67,6 @@ email: "samuel.horvath@kaust.edu.sa"
 # - Visitors
 ---
 
-I am the second year student of MS/PhD program in Machine Learning and Optimization under supervision of professor [Peter Richtárik](https://richtarik.org/index.html) at [Visual Computing  Center KAUST](https://vcc.kaust.edu.sa/Pages/Home.aspx). Prior to that, I studied Financial Mathematics at [Comenius University](https://fmph.uniba.sk/en/). My research interest is mainly in Non-convex and Convex Optimization, especially different Machine Learning and Deep Learning applications.
+I am the third year student of MS/PhD program in Machine Learning and Optimization under supervision of professor [Peter Richtárik](https://richtarik.org/index.html) at [Visual Computing  Center KAUST](https://vcc.kaust.edu.sa/Pages/Home.aspx). Prior to that, I studied Financial Mathematics at [Comenius University](https://fmph.uniba.sk/en/). My research interest is mainly in Non-convex and Convex Optimization, especially different Machine Learning and Deep Learning applications.
 
 On the other hand, I am also active in sports, mostly football and fitness.

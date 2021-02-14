@@ -19,4 +19,4 @@ image:
 projects: []
 ---
 
-Our paper [**Lower Bounds and Optimal Algorithms for Personalized Federated Learning**](https://arxiv.org/pdf/1809.04146.pdf), joint work with [**Filip Hanzely**](https://fhanzely.github.io/), [**Slavomir Hanzely**](https://slavomirhanzely.wordpress.com/),and [**Peter Richtarik**](https://richtarik.org/), got accepted to the NeurIPS 2020. This year conference is online this year and it takes place from 6th to 12th December 2020.
+Our paper [**Lower Bounds and Optimal Algorithms for Personalized Federated Learning**](https://proceedings.neurips.cc/paper/2020/file/187acf7982f3c169b3075132380986e4-Paper.pdf), joint work with [**Filip Hanzely**](https://fhanzely.github.io/), [**Slavomir Hanzely**](https://slavomirhanzely.wordpress.com/),and [**Peter Richtarik**](https://richtarik.org/), got accepted to the NeurIPS 2020. This year conference is online and it takes place from 6th to 12th December 2020.
