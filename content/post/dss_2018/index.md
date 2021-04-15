@@ -24,6 +24,6 @@ I am attending [**Data Science Summer School**](http://www.ds3-datascience-polyt
 
 {{% callout note %}}
 Update
-{{% /callouts %}}
+{{% /callout %}}
 
 My poster was awarded as  [**$\text{the Best DS}^3\text{poster}$**](http://www.ds3-datascience-polytechnique.fr/posters/) with $500$ Euros cash prize. Only **2** posters out of total **170** were awarded!
