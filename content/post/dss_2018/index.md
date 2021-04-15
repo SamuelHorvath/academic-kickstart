@@ -22,8 +22,8 @@ projects: []
 
 I am attending [**Data Science Summer School**](http://www.ds3-datascience-polytechnique.fr/) in Paris at  École Polytechnique. I will present there poster with title [**Nonconvex Variance Reduced Optimization with Arbitrary Sampling**](http://www.ds3-datascience-polytechnique.fr/wp-content/uploads/2018/06/DS3-342.pdf), which is based on a paper of the same title, joint work with my supervisor [Peter Richtárik](http://www.maths.ed.ac.uk/~prichtar/index.html), and currently under review.
 
-{{% alert note %}}
+{{% callout note %}}
 Update
-{{% /alert %}}
+{{% /callouts %}}
 
 My poster was awarded as  [**$\text{the Best DS}^3\text{poster}$**](http://www.ds3-datascience-polytechnique.fr/posters/) with $500$ Euros cash prize. Only **2** posters out of total **170** were awarded!
