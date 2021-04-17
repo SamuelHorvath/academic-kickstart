@@ -15,7 +15,7 @@ summary = "[**FjORD: Fair and Accurate Federated Learning under heterogeneous ta
 
 +++
 
-Our new paper **FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout** is now available on the arXiv. This is a joint work [**Stefanos Laskaridis**](https://stevelaskaridis.github.io/), [**Mario Almeida**](https://www.marioalmeida.com/), [**Ilias Leontiadis**](https://leontiadis.net/), [**Stylianos Venieris**](https://steliosven10.github.io/), and [**Nic Lane**](http://niclane.org/) from Samsung AI Centre, Cambridge, UK.
+Our new paper **FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout** is now available on the arXiv. This is a joint work with [**Stefanos Laskaridis**](https://stevelaskaridis.github.io/), [**Mario Almeida**](https://www.marioalmeida.com/), [**Ilias Leontiadis**](https://leontiadis.net/), [**Stylianos Venieris**](https://steliosven10.github.io/), and [**Nic Lane**](http://niclane.org/) from Samsung AI Centre, Cambridge, UK.
 
 Abstract:
 
